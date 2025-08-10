@@ -1,4 +1,4 @@
-# Math Question Generation
+# Math Anwer Generation
 
 This repository contains newly generated math questions inspired by provided base problems.  
 The questions follow a strict format suitable for assessment systems and are tagged with curriculum mappings.
